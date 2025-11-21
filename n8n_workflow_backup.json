@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "jace-update-task",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "f70e10ac-f29f-4e79-b7b7-eb31029cfa9f",
+      "name": "Webhook: Update Task",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [2080, 2480],
+      "webhookId": "jace-update-task"
+    }
+  ],
+  "meta": {
+    "instanceId": "a0417da068bb60050f2af2bb32be41d02b453a9281bfda7e35db7ccb0f2c9daf",
+    "n8n_url": "https://maxstrong.app.n8n.cloud"
+  }
+}
